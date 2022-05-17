@@ -14,7 +14,8 @@ La ruta base es ``/usr/share/nginx/html``, aunque crearemos una carpeta para alo
 ``/home/diegoms/Documents/nginx/sistemas``
 
 Usaremos el siguiente código:
-``<!DOCTYPE html>
+``
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,7 +26,8 @@ Usaremos el siguiente código:
 <body>
     <h1>DIEGO MORRO SILVA</h1>
 </body>
-</html>``
+</html>
+``
 
 Este código lo guardaremos como ``index.html`` y lanzaremos el siguiente comando:
 ``docker run --rm -d -p 8080:80 --name web -v /home/diegoms/Documents/nginx/sistemas:/usr/share/nginx/html nginx``
