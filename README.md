@@ -3,4 +3,4 @@
 ## AGREGAR UN HTML PERSONALIZADO EN NGINX A TRAVÉS DE DOCKER
 
 Una vez con docker en nuestra máquina, nos instalamos la imagen de nginx a través del comando 
-''sudo pull nginx''
+``sudo pull nginx``
