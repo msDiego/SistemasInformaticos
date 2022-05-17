@@ -34,7 +34,8 @@ Este código lo guardaremos como ``index.html`` y lanzaremos el siguiente comand
 
 El resultado es el siguiente:
 
-<img width="628" alt="DIEGOMORRO" src="https://user-images.githubusercontent.com/91744554/168891462-d1f5a3ba-12d8-493d-b8cb-02e9ad53ecdf.png">
+<img width="358" alt="DIEGOMORRO" src="https://user-images.githubusercontent.com/91744554/168892420-6fe8a703-33f9-4ca7-963a-b4fb572a5656.png">
+
 
 
 
